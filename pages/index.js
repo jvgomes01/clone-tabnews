@@ -24,7 +24,6 @@ export default function Home() {
         style={{ borderRadius: "10px", marginBottom: "20px" }}
       />
       <h2>Uma flor pra outra flor 🌹</h2>
-      
     </div>
   );
 }
