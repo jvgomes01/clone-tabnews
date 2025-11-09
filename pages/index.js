@@ -3,7 +3,7 @@ export default function Home() {
     <div
       style={{
         backgroundImage:
-          "linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://wallpapercave.com/wp/iy77JdQ.gif')",
+                  "linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://wallpapercave.com/wp/iy77JdQ.gif')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "100vh",
